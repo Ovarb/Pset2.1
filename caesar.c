@@ -1,5 +1,6 @@
 //GIT test commit 01
 //GIT test change 02
+//GIT test conflict CS50
 
 #include <stdio.h>
 #include <cs50.h>
