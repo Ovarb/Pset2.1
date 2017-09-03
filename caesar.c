@@ -3,6 +3,8 @@
 
 //GIT test conflict CS50
 
+//GIT new feature 05
+
 #include <stdio.h>
 #include <cs50.h>
 #include <string.h>
